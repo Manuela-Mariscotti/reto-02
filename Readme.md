@@ -23,4 +23,4 @@ para ver en todo momento el estado de los archivos.
 
 5) Escribimos el comando
 ' git push '
-para subir e incorporar los cambios confirmados al proyecto global.
+para subir e incorporar los cambios confirmados al proyecto global.-
